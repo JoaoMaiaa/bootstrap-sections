@@ -1,0 +1,27 @@
+/*All*/
+body{font-family: 'Roboto', sans-serif;font-size:14px;}
+
+h1,h2,h3,h4,h5,h6{font-family: 'Playfair Display', serif;}
+
+/*section*/
+#space{padding:100px 0;}
+
+.border-bottom{border-bottom:1px dotted #fff!important;}
+
+img{width:180px;}
+
+.btn-outline-light{border:2px solid #fff;}
+
+.list-inline .fa-facebook-f{padding:0px 2px;}
+
+p{margin:0;padding:0;}
+
+.fas{font-size:1.2rem;}
+
+.grand{ font-family: 'Grand Hotel', cursive;}
+
+.fa-hotel{font-size:2rem;}
+
+/*Footer*/
+.border-top{border-top:1px dotted #fff!important;}
+
