@@ -1,0 +1,15 @@
+/*All*/
+body{
+    color:#555555;
+    font-family:'Lato',sans-serif;
+}
+h1,h2,h3,h4,h5,h6{font-weight:700;}
+.display-3{font-weight:500!important;}
+.light{color:#999999;}
+.light-2{color:#777777;}
+.btn{
+    width:200px;
+    border-radius:3px;
+}
+
+/*Section*/
