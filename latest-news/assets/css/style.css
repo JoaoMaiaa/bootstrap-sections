@@ -1,0 +1,22 @@
+/*All*/
+body{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: .06rem;
+    font-size:14px;
+    color:#7e7e7f;
+}
+h1,h2,h3,h4,h5,h6{font-family: 'Titillium Web', sans-serif;}
+.text-gray{color:#7e7e7f;}
+.text-dark{color:#1a1a1a!important;}
+.text-primary{color:#3f44c9!important;}
+
+/*main*/
+.img{
+    height:400px;
+    width:100%;
+    background-image:url('../img/mountains.jpg');
+    background-size:cover;
+    background-position:top;
+}
+
+.badge-primary{background-color:#3f44c9!important;}
