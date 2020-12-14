@@ -1,0 +1,63 @@
+/*All*/
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size :16px;
+    line-height:27px;
+    font-weight:400;
+    color:#677d8f;
+    overflow-x:hidden;
+}
+
+.text-dark{color:#4B5B68!important;}
+.text-primary{color:#4ba0e8!important;}
+h1, h2, h3, h4, h5, h6{color:#4B5B68;}
+.text-gold{color:#6FBF52;}
+
+.btn{
+    border-radius:30px!important;
+    border:2px solid #4ba0e8;
+}
+
+/*info*/
+#info{padding:100px 300px;}
+
+/*services-slider*/
+i{ 
+    color:#4ba0e8;
+    font-size:11px;
+}
+
+.window{font-size:50px;}
+
+/*about*/
+#about{padding:100px 0;}
+#about .container{z-index:999;}
+#about i{color:#6fbf52;}
+#about img{
+    right:-70px;
+    top:50px;
+}
+
+.fa-envira{font-size:20px;}
+
+@media (max-width: 575.98px) {  
+    #about img{
+        width:350px;
+        top:90%;
+        right:10%;
+    }
+    #info{padding:50px 0 0 0;}
+    #info-2{padding:250px 0;}
+    #info-2 h1{font-size:18px;}
+  
+}
+
+@media (min-width:575.98px) and (max-width: 991.98px) {     
+    #about img{
+        width:500px;
+        top:90%;
+        left:20%;
+    }
+    #info{padding:50px 0 0 0;}
+    #info-2{padding:350px 0;}
+}
